@@ -16,7 +16,7 @@ You can view the live version of the website [here](https://frontend-red-eta-22.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/koushik-777/frontend.git
+    git clone https://github.com/koushik-777/food_delivery-front-end-.git
     ```
 2. Navigate to the project directory:
     ```sh
@@ -35,4 +35,4 @@ You can view the live version of the website [here](https://frontend-red-eta-22.
     ```
 2. Open your browser and navigate to `http://localhost:3000`.
 
-## Project Structure
+
